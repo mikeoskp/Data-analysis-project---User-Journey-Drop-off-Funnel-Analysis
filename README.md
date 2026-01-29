@@ -13,13 +13,12 @@ This project simulates a real-world **product analytics / growth analytics** use
 ## 🧰 Tech Stack
 - **SQL** – Funnel analysis, cohort calculations, drop-off metrics
 - **Python** – Data cleaning, EDA, visualization
-- **Power BI** – Interactive funnel & conversion dashboards
 - **Libraries:** Pandas, Matplotlib, Seaborn
 
 ---
 
 ## 📊 Dataset Description
-Synthetic user interaction data representing a typical digital product funnel.
+Data representing a typical digital product funnel.
 
 ### Key Columns:
 - `user_id` – Unique user identifier
@@ -65,15 +64,6 @@ Synthetic user interaction data representing a typical digital product funnel.
 
 ---
 
-## 📊 SQL Use Cases
-- Funnel stage conversion calculations
-- Drop-off rate computation using window functions
-- Session-level aggregation
-- Traffic source & device segmentation
-- Cohort-style user flow tracking
-
----
-
 ## 🐍 Python Analysis
 - Data cleaning and preprocessing
 - Funnel visualization using bar & step charts
@@ -95,14 +85,6 @@ Synthetic user interaction data representing a typical digital product funnel.
 - Optimize mobile checkout experience
 - Improve paid campaign targeting
 - Reduce friction in mid-funnel stages
-
----
-
-## 📈 Power BI Dashboard (Optional Layer)
-- Funnel visualization with conversion %
-- Drop-off heatmap
-- Device & traffic source slicers
-- KPI cards for conversion metrics
 
 ---
 
