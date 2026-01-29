@@ -1,25 +1,32 @@
 # Data-analysis-project---User-Journey-Drop-off-Funnel-Analysis
 
-This includes: ✔ Dataset creation ✔ Data cleaning ✔ EDA ✔ Funnel metrics ✔ Drop-off analysis ✔ Visualization ✔ Business insights
+This includes: 
+✔ Dataset creation 
+✔ Data cleaning 
+✔ EDA 
+✔ Funnel metrics 
+✔ Drop-off analysis 
+✔ Visualization 
+✔ Business insights
 
 📌 PROJECT SCENARIO
 
-A SaaS / e-commerce website wants to analyze:
+1. A SaaS / e-commerce website wants to analyze:
 
-How users move through the funnel
+2. How users move through the funnel
 
-Where users drop off
+3. Where users drop off
 
-How to improve conversion
+4. How to improve conversion
 
-Funnel Stages:
+📌 Funnel Stages:
 
-Visit
+1. Visit
 
-Sign Up
+2. Sign Up
 
-Add to Cart
+3. Add to Cart
 
-Checkout
+4. Checkout
 
-Purchase
+5. Purchase
